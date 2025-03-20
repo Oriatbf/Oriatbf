@@ -5,7 +5,9 @@
 <br/> <br/> <br/>
 ✨연락처✨
 
-<img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/> <img src="https://img.shields.io/badge/john31534249@gmail.com-30B980?style=flat-square&logo=minutemailer&logoColor=white"/> <img src="https://img.shields.io/badge/oriatbf_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/> <img src="https://img.shields.io/badge/john31534249@gmail.com-30B980?style=flat-square&logo=minutemailer&logoColor=white"/> <a href="https://www.instagram.com/oriatbf_/" target="_blank">
+  <img src="https://img.shields.io/badge/oriatbf_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+</a>
 <br/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Csharp-512BD4?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img />
 <br/> <br/> <br/>
